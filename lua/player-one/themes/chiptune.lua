@@ -55,7 +55,7 @@ return {
 	},
 	{
 		event = "TextChangedI",
-		sound = { wave_type = 1, base_freq = 760.0, env_attack = 0.0, env_sustain = 0.001, env_decay = 0.05 },
+		sound = { wave_type = 1, base_freq = 220.0, env_attack = 0.0, env_sustain = 0.001, env_decay = 0.05 },
 	},
 	{
 		event = "TextYankPost",
